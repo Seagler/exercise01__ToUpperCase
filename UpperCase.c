@@ -24,9 +24,10 @@ void test(char* text){
 
 
 int main(int argc, char const *argv[]) {
-
+    //neuen Test hinzugefügt
   test("xyz");
   test("this is a test");
+  test("this is a test!!123");
   
   return 0;
 }
